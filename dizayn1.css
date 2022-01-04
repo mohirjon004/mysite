@@ -1,0 +1,222 @@
+.header .navbar-nav {
+  background-color: white;
+}
+
+.header .btn {
+  background: #156963;
+}
+
+.header .kembang {
+  color: #156963;
+  font-size: 68px;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 90px;
+  padding-left: 70px;
+}
+
+.header .navbar {
+  padding-left: 250px;
+  padding-top: 40px;
+}
+
+.header .lorem {
+  font-size: 18px;
+  color: #646161;
+  padding-left: 75px;
+  line-height: 34px;
+  width: 85%;
+}
+
+.header .kaktus {
+  font-size: 35px;
+  color: #156963;
+  font-weight: 500;
+}
+
+.header .strelka {
+  margin-top: 170px;
+  margin-left: 85px;
+}
+
+.header .yunslish {
+  background-color: #156963;
+  width: 100px;
+  height: 100px;
+}
+
+.section1 {
+  margin-top: 100px;
+}
+
+.section1 .fast {
+  color: #156963;
+  font-size: 18px;
+  font-weight: 650;
+}
+
+.section1 .Customer {
+  color: #156963;
+  font-size: 18px;
+  font-weight: 650;
+}
+
+.section1 .Original {
+  color: #156963;
+  font-size: 18px;
+  font-weight: 650;
+}
+
+.section1 .afford {
+  color: #156963;
+  font-size: 18px;
+  font-weight: 650;
+}
+
+.section1 .loremcol {
+  font-size: 12px;
+  width: 90%;
+}
+
+.section1 .lorem3 {
+  font-size: 12px;
+  width: 90%;
+}
+
+.section1 .lorem4 {
+  font-size: 12px;
+  width: 90%;
+}
+
+.section1 .lorem5 {
+  font-size: 12px;
+  width: 90%;
+}
+
+.feature {
+  font-weight: 500px;
+  font-size: 20px;
+  margin-top: 83px;
+}
+
+.section3 .kaktus1 {
+  background-color: #cacaca;
+}
+
+.section3 .text {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.section3 .idr {
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.section3 {
+  margin-top: 90px;
+}
+
+.section3 .buy {
+  font-size: 40px;
+  font-weight: 700;
+  width: 85%;
+  line-height: 56px;
+}
+
+.section3 .lorem6 {
+  margin-top: 20px;
+  line-height: 30px;
+  font-family: "Montserrat", sans-serif;
+  width: 95%;
+}
+
+.section3 .guldon {
+  padding-top: 50px;
+  padding-right: 15px;
+}
+
+.section3 .etaj {
+  margin-left: 39px;
+}
+
+.section4 {
+  margin-top: 80px;
+  background-color: #f3f4f6;
+}
+
+.section4 .get {
+  padding-top: 60px;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  padding-left: 80px;
+}
+
+.section4 .visit {
+  background-color: #156963;
+  margin-top: 32px;
+  border-radius: 0%;
+  margin-left: 80px;
+}
+
+.footer .plant {
+  color: #156963;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.footer .house {
+  font-weight: 500;
+}
+
+.footer .ji {
+  font-size: 14px;
+  width: 80%;
+  line-height: 25px;
+  font-weight: 300;
+}
+
+.footer .tentang {
+  font-weight: 400;
+}
+
+.footer .masukan {
+  border-color: #f2f2f2;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.footer .sub {
+  background-color: #156963;
+  color: white;
+  width: 71px;
+  height: 30px;
+  font-size: 10px;
+}
+
+.ramka {
+  border-color: #837e7e;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: white;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .tut {
+    width: 400px;
+    height: 700px;
+  }
+  .navbar-expand {
+    padding-left: 20px;
+  }
+  .kembang {
+    padding-left: 10px;
+    margin-top: 20px;
+  }
+}
+/*# sourceMappingURL=dizayn1.css.map */
